@@ -1,0 +1,23 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/shamim/.jenkins/workspace/jenkins-test-repo/jenkins-demo/jenkins-demo/ViewController.m
+/Users/shamim/.jenkins/workspace/jenkins-test-repo/jenkins-demo
+/Users/shamim/.jenkins/workspace/jenkins-test-repo/jenkins-demo/jenkins-demo/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+/Users/shamim/.jenkins/workspace/jenkins-test-repo/jenkins-demo/jenkins-demo/AppDelegate.m
+/Users/shamim/.jenkins/workspace/jenkins-test-repo/jenkins-demo/jenkins-demo/AppDelegate.h
